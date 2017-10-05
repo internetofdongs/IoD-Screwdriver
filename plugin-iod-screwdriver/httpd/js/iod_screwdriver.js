@@ -14,7 +14,7 @@ exports.load_complete = 0;
 kismet_ui.AddDeviceRowHighlight({
     name: "IoD Device",
     description: "Detect and highlight known IoD devices",
-    priority: -100,
+    priority: 100,
     defaultcolor: "#ff6699",
     defaultenable: true,
     fields: [
@@ -23,8 +23,24 @@ kismet_ui.AddDeviceRowHighlight({
     ],
     selector: function(data) {
         var bluetooth_names = [
-            '^Regex1.*',
-            '*Regex2*',
+            '^Vibratissimo$',
+            '^MV Crescendo$',
+            '^VIBEASE.*$',
+            '^PEARL$',
+            '^ONYX$',
+            '^LVS-.*$',
+            '^Blow hole$',
+            '^Surfer$',
+            '^BKK Cup$',
+            '^Elvie-.*$',
+            '^Life guard$',
+            '^OhMiBod$',
+            '^Cougar$',
+            '^MISSVV.*$',
+            '^IMTOY.*$',
+            '^Flamingo$',
+            '^kGoal$',
+            '^Glow!$',
             ];
 
         var wifi_names = [

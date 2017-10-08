@@ -1,0 +1,102 @@
+This is the list of detected devices by the IoD-Screwdriver plugin.
+
+Some have been verified with the actual devices, others are extracted from the apps and other documentation.  Some are from yet unreleased 
+devices as well and so may change in the future. Some devices also have several possible device names and so have multiple entries.
+
+61 device names from 52 devices as of Oct 10, 2017
+
+Any additions or corrections, please send them to screwdriver@internetofdon.gs
+
+
+Vendor		Device Name		Ble Name
+
+We-Vibe		We-Vibe 4 Plus		cougar
+We-Vibe		We-Vibe 4 Plus		4plus
+We-Vibe         Bloom by We-Vibe	bloom
+We-Vibe         We-Vibe Classic		classic
+We-Vibe         Ditto by We-Vibe	ditto
+We-Vibe         Gala by We-Vibe		gala
+We-Vibe         Jive by We-Vibe		jive
+We-Vibe         Nova by We-Vibe		nova
+We-Vibe         Nova by We-Vibe		NOVAV2
+We-Vibe         Pivot by We-Vibe	pivot
+We-Vibe         Rave by We-Vibe		rave
+We-Vibe         We-Vibe Sync		sync
+We-Vibe         Verge by We-Vibe	verge
+We-Vibe         Wish by We-Vibe		wish
+
+Vibratissimo	Pantybuster		Vibratissimo
+		
+Vibease		Vibease			Vibease##
+
+PicoBong	Blow hole		Blow hole
+PicoBong	Blow hole		Picobong Male Toy
+PicoBong	Life Guard		Life guard
+PicoBong	Life Guard		Picobong Ring
+PicoBong	Surfer			Surfer
+PicoBong	Surfer			Picobong Butt Plug
+PicoBong	Surfer			Egg driver
+PicoBong	Surfer			Surfer_plug
+PicoBong	Diver			Diver
+PicoBong	Diver			Picobong Egg
+
+Ohmibod		Nex1			OHMIBOD
+
+Lovelife	Krush			KRUSH
+
+Mysteryvibe	Crescendo		MV Crescendo
+		
+Motorbunny	Motorbunny		MB Controller
+		
+MissVvsMystery	Miss-on-the-go		MISSVV#### (Last 4 digits of BT_addr)
+		
+MagicMotion	Flamingo		Flamingo
+		
+Lovense		Nora			LVS-C###
+Lovense		Hush			LVS-Z###
+Lovense		Lush			LVS-S###
+Lovense		Max			LVS-B###
+Lovense		Ambi			LVS-A###
+
+Kiiroo		Pearl			PEARL
+Kiiroo		Onyx			ONYX
+Kiiroo		Pearl2			PEARL2
+Kiiroo		Onyx2			ONYX2
+Kiiroo		Launch			KIIROO
+Kiiroo		Launch			LAUNCH
+		
+kGoal		kGoal			kGoal
+		
+IMTOY		Gazelle			IMTOY ZGA
+IMTOY		Dolphin			IMTOY ZDO
+IMTOY		Giraffe			IMTOY ZGI
+IMTOY		Manta Ray		IMTOY ZMA
+IMTOY		Rhinoceros		IMTOY ZRH
+IMTOY		Whale			IMTOY ZWH
+		
+		
+IMTOY		Candy			IMTOY CAN 2
+		
+IMTOY		Piu			IMTOY PIU 2
+		
+Honey Birdette	Vive			Glow!
+		
+Elvie		Elvie			Elvie-##### (Last 5 digits of BT_addr)
+		
+BKK		BKK Cup			BKK Cup
+		
+Ovita		Ovita			!vita
+		
+Vorze		A10 Cyclone		CycSA	
+		
+Unknown		Unknown			FUSE
+
+Unknown		The Cowgirl		THE COWGIRL
+
+Unknown		Unknown			BLOWBOT
+
+Unknown		Unknown			RABBIT
+
+Unknown		Unknown			SHADOW
+
+Unknown		Unknown			Youcup

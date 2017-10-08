@@ -14,7 +14,7 @@ exports.load_complete = 0;
 kismet_ui.AddDeviceRowHighlight({
     name: "IoD Device",
     description: "Detect and highlight known IoD devices",
-    priority: 100,
+    priority: -150,
     defaultcolor: "#ff6699",
     defaultenable: true,
     fields: [
@@ -31,7 +31,6 @@ kismet_ui.AddDeviceRowHighlight({
             'ONYX',
             'ONYX2',
             '^LVS-[ABCSZ].*$',
-//            '^LVS_[ABCSZ]\d\d\d$',
             '^Blow hole$',
             '^Surfer$',
             '^BKK Cup$',
@@ -70,7 +69,6 @@ kismet_ui.AddDeviceRowHighlight({
             '^!vita$',
             '^Smart Mini Vibe$',
             '^CycSA$',
-            '^CYCSA$',
             '^Youcups$',
             '^FUSE$',
             '^THE COWGIRL$',

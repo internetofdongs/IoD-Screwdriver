@@ -25,9 +25,9 @@ We-Vibe         We-Vibe Sync		sync
 We-Vibe         Verge by We-Vibe	verge
 We-Vibe         Wish by We-Vibe		wish
 
-Vibratissimo	Pantybuster		Vibratissimo
+Vibratissimo	All devices		Vibratissimo
 		
-Vibease		Vibease			Vibease##
+Vibease		Vibease			Vibease## (2 digits)
 
 PicoBong	Blow hole		Blow hole
 PicoBong	Blow hole		Picobong Male Toy

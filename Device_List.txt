@@ -1,9 +1,15 @@
-This is the list of detected devices by the IoD-Screwdriver plugin.
+This is the list of devices detected by the IoD-Screwdriver plugin.
 
-Some have been verified with the actual devices, others are extracted from the apps and other documentation.  Some are from yet unreleased 
-devices as well and so may change in the future. Some devices also have several possible device names and so have multiple entries.
+Some have been verified with the actual devices wherever possible.  
 
-61 device names from 52 devices as of Oct 10, 2017
+Others are extracted from the apps and other documentation sources and may include yet unreleased devices which may change in the future. Some 
+devices also have several possible device names and so have multiple entries. Finally, some software may have had references to names where 
+that were only partial or for unknown devices (prototypes, OEM, etc)
+
+This list is far from definitive as there may be name colissions with non IoD devices.  However, it should give you a good idea how many 
+devices are there.
+
+100 device names from ~80 devices as of November 20, 2017
 
 Any additions or corrections, please send them to screwdriver@internetofdon.gs
 
@@ -134,4 +140,3 @@ Unknown		Unknown			RABBIT
 Unknown		Unknown			SHADOW
 
 Unknown		Unknown			Youcup
-

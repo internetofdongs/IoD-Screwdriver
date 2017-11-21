@@ -37,6 +37,8 @@ kismet_ui.AddDeviceRowHighlight({
             '^Elvie-.*',
             '^Life guard$',
             '^OhMiBod$',
+	    '^OhMiBod esca$',
+	    '^esca$',
             '^Cougar$',
             '^MISSVV.*$',
             '^IMTOY.*$',

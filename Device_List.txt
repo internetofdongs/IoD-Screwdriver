@@ -10,20 +10,20 @@ Any additions or corrections, please send them to screwdriver@internetofdon.gs
 
 Vendor		Device Name		Ble Name
 
-We-Vibe		We-Vibe 4 Plus		cougar
+We-Vibe		We-Vibe 4 Plus		Cougar
 We-Vibe		We-Vibe 4 Plus		4plus
-We-Vibe         Bloom by We-Vibe	bloom
+We-Vibe         Bloom by We-Vibe	Bloom
 We-Vibe         We-Vibe Classic		classic
-We-Vibe         Ditto by We-Vibe	ditto
-We-Vibe         Gala by We-Vibe		gala
-We-Vibe         Jive by We-Vibe		jive
-We-Vibe         Nova by We-Vibe		nova
+We-Vibe         Ditto by We-Vibe	Ditto
+We-Vibe         Gala by We-Vibe		Gala
+We-Vibe         Jive by We-Vibe		Jive
+We-Vibe         Nova by We-Vibe		Nova
 We-Vibe         Nova by We-Vibe		NOVAV2
-We-Vibe         Pivot by We-Vibe	pivot
-We-Vibe         Rave by We-Vibe		rave
-We-Vibe         We-Vibe Sync		sync
-We-Vibe         Verge by We-Vibe	verge
-We-Vibe         Wish by We-Vibe		wish
+We-Vibe         Pivot by We-Vibe	Pivot
+We-Vibe         Rave by We-Vibe		Rave
+We-Vibe         We-Vibe Sync		Sync
+We-Vibe         Verge by We-Vibe	Verge
+We-Vibe         Wish by We-Vibe		Wish
 
 Vibratissimo	All devices		Vibratissimo
 		
@@ -40,9 +40,11 @@ PicoBong	Surfer			Surfer_plug
 PicoBong	Diver			Diver
 PicoBong	Diver			Picobong Egg
 
-Ohmibod		Nex1			OHMIBOD
-
-Lovelife	Krush			KRUSH
+Ohmibod		Nex1			OhMiBod
+Ohmibod		Nex3			OhMiBod
+Ohmibod		Krush			KRUSH
+Ohmibod		Fuse			FUSE
+Ohmibod		Esca			OhMiBod esca
 
 Mysteryvibe	Crescendo		MV Crescendo
 		
@@ -64,6 +66,7 @@ Kiiroo		Pearl2			PEARL2
 Kiiroo		Onyx2			ONYX2
 Kiiroo		Launch			KIIROO
 Kiiroo		Launch			LAUNCH
+Kiiroo		Onyx			VIRTUAL STROKER
 		
 kGoal		kGoal			kGoal
 		
@@ -82,16 +85,47 @@ IMTOY		Piu			IMTOY PIU 2
 Honey Birdette	Vive			Glow!
 		
 Elvie		Elvie			Elvie-##### (Last 5 digits of BT_addr)
-		
+	
 BKK		BKK Cup			BKK Cup
 		
 Ovita		Ovita			!vita
 		
 Vorze		A10 Cyclone		CycSA	
-		
-Unknown		Unknown			FUSE
+Vorze		Bach Smart		Bach Smart
+Vorze		UFO			UfoSa
 
-Unknown		The Cowgirl		THE COWGIRL
+COTR		The Cowgirl		THE COWGIRL
+
+CST		VENUZ BALA		banana
+CST		Unknown			eros
+CST		Unknown			fly
+CST		Unknown			gcup
+CST		Unknown			gilly
+CST		Hackbutter		hackbuteer
+CST		Hackbutter		hackbutter
+CST		Unknown			hqs
+CST		Unknown			ihole
+CST		Unknown			iv
+CST		Unknown			iv-alma
+CST		Unknown			iv-amy
+CST		Unknown			iv-ann
+CST		Unknown			iv-ivy
+CST		Unknown			kitty
+CST		Ladi			ladi
+CST		Ladi?			lagi
+CST		Lava			lava
+CST		Unknown			levo
+CST		Unknown			ninio
+CST		Unknown			papa
+CST		Unknown			rhino
+CST		Rigee			rigee
+CST		Unknown			tange
+CST		Unknown			turbo
+CST		Unknown			usexy
+CST		Unknown			venuzi
+CST		Unknown			vernuz
+CST		Unknown			viroll
+CST		Unknown			wow
 
 Unknown		Unknown			BLOWBOT
 
@@ -100,3 +134,4 @@ Unknown		Unknown			RABBIT
 Unknown		Unknown			SHADOW
 
 Unknown		Unknown			Youcup
+

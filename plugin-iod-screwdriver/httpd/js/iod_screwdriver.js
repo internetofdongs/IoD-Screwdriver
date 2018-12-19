@@ -113,10 +113,14 @@ kismet_ui.AddDeviceRowHighlight({
 	    '^vernuz$',
 	    '^viroll$',
 	    '^wow$',
+	    '^Aogu SCB$',
             ];
 
         var wifi_names = [
-            'some_wifi_regex',
+//            'some_wifi_regex',
+	      '^Siime Eye.*',
+	      '^TheC-Cam_.*',
+	      '^The_C-Cam_.*',
             ];
 
         if (data['kismet.device.base.phyname'] === 'Bluetooth') {

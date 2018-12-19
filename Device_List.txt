@@ -1,15 +1,14 @@
 This is the list of devices detected by the IoD-Screwdriver plugin.
 
-Some have been verified with the actual devices wherever possible.  
+Some have been verified with the actual devices wherever possible.  Others are extracted from the apps and other documentation sources and may 
+include yet unreleased devices which may change in the future. Some devices also have several possible device names and so have multiple 
+entries. Some devices now allow for devices to have their name changed and may not be flagged.  Finally, some software may have had references 
+to names where that were only partial or for unknown devices (prototypes, OEM, etc)
 
-Others are extracted from the apps and other documentation sources and may include yet unreleased devices which may change in the future. Some 
-devices also have several possible device names and so have multiple entries. Finally, some software may have had references to names where 
-that were only partial or for unknown devices (prototypes, OEM, etc)
+This list is far from definitive as there may be name collisions with non IoD devices.  However, it should give you a good idea how many IoD 
+devices are out there in default configuration.
 
-This list is far from definitive as there may be name colissions with non IoD devices.  However, it should give you a good idea how many 
-devices are there.
-
-100 device names from ~80 devices as of November 20, 2017
+104 device names from ~84 devices as of December 18, 2018
 
 Any additions or corrections, please send them to screwdriver@internetofdon.gs
 
@@ -94,6 +93,12 @@ Honey Birdette	Vive			Glow!
 Elvie		Elvie			Elvie-##### (Last 5 digits of BT_addr)
 	
 BKK		BKK Cup			BKK Cup
+
+The CockCam	The CockCam		TheC-Cam_### (Random alphanumeric)
+The CockCam	The CockCam		The_C-Cam_##### (Random alphanumeric)
+
+Svakom		Svakom Siime Eye	Siime Eye (WiFi Based)
+Svakom		Ella			Aogu SCB
 		
 Ovita		Ovita			!vita
 		

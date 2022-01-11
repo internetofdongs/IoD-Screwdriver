@@ -1,15 +1,4 @@
-(
-  typeof define === "function" ? function (m) { define("iod-screwdriver-js", m); } :
-  typeof exports === "object" ? function (m) { module.exports = m(); } :
-  function(m){ this.iod_screwdriver = m(); }
-)(function () {
-
 "use strict";
-
-var exports = {};
-
-// Flag we're still loading
-exports.load_complete = 0;
 
 kismet_ui.AddDeviceRowHighlight({
     name: "IoD Device",
@@ -39,8 +28,8 @@ kismet_ui.AddDeviceRowHighlight({
             '^Elvie-.*',
             '^Life guard$',
             '^OhMiBod$',
-	    '^OhMiBod esca$',
-	    '^esca$',
+            '^OhMiBod esca$',
+            '^esca$',
             '^Cougar$',
             '^MISSVV.*$',
             '^IMTOY.*$',
@@ -79,54 +68,52 @@ kismet_ui.AddDeviceRowHighlight({
             '^BLOWBOT$',
             '^RABBIT$',
             '^SHADOW$',
-	    '^Kiiroo$',
-	    '^VIRTUAL STROKER$',
-	    '^UfoSa$',
-	    '^Bach Smart$',
-	    '^banana$',
+            '^Kiiroo$',
+            '^VIRTUAL STROKER$',
+            '^UfoSa$',
+            '^Bach Smart$',
+            '^banana$',
             '^eros$',
             '^fly$',
             '^gcup$',
             '^gilly$',
             '^hackbuteer$',
             '^hackbutter$',
-	    '^hqs$',
+            '^hqs$',
             '^ihole$',
-	    '^iv$',
-	    '^iv-alma$',
-	    '^iv-amy$',
-	    '^iv-ann$',
-	    '^iv-ivy$',
-	    '^kitty$',
-	    '^ladi$',
-	    '^lagi$',
-	    '^lava$',
-	    '^levo$',
-	    '^ninio$',
-	    '^papa$',
-	    '^rhino$',
-	    '^rigee$',
-	    '^tange$',
-	    '^turbo$',
-	    '^usexy$',
-	    '^venuzi$',
-	    '^vernuz$',
-	    '^viroll$',
-	    '^wow$',
-	    '^Aogu SCB$',
-            ];
+            '^iv$',
+            '^iv-alma$',
+            '^iv-amy$',
+            '^iv-ann$',
+            '^iv-ivy$',
+            '^kitty$',
+            '^ladi$',
+            '^lagi$',
+            '^lava$',
+            '^levo$',
+            '^ninio$',
+            '^papa$',
+            '^rhino$',
+            '^rigee$',
+            '^tange$',
+            '^turbo$',
+            '^usexy$',
+            '^venuzi$',
+            '^vernuz$',
+            '^viroll$',
+            '^wow$',
+            '^Aogu SCB$',
+        ];
 
         var wifi_names = [
-//            'some_wifi_regex',
-	      '^Siime Eye.*',
-	      '^TheC-Cam_.*',
-	      '^The_C-Cam_.*',
-            ];
+            '^Siime Eye.*',
+            '^TheC-Cam_.*',
+            '^The_C-Cam_.*',
+        ];
 
         if (data['kismet.device.base.phyname'] === 'Bluetooth') {
             for (var re of bluetooth_names) {
-//                if (data['kismet.device.base.name'].match(re) != null)
-		 if (data['kismet.device.base.name'].match(new RegExp(re, 'i')) != null)
+                if (data['kismet.device.base.name'].match(new RegExp(re, 'i')) != null)
                     return true;
             }
         } else if (data['kismet.device.base.phyname'] === 'IEEE802.11') {
@@ -140,10 +127,3 @@ kismet_ui.AddDeviceRowHighlight({
     }
 });
 
-
-// We're done loading
-exports.load_complete = 1;
-
-return exports;
-
-});
